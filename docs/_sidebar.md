@@ -1,74 +1,51 @@
-* [Home](/)
-
-# 银行与信贷业务
-- [主题零：问题](bank/主题零：问答.md)
-- [主题一：金融用户画像](bank/主题一：金融用户画像.md)
-- [主题二：信贷评分卡建设](bank/主题二：信贷评分卡建设.md)
-- [主题三：指标与特征工程](bank/主题三：指标与特征工程.md)
-- [主题四：银行基本信贷概念](bank/主题四：银行基本信贷概念.md)
-- [主题五：宏观经济](bank/主题五：宏观经济.md)
-- [主题六：互联网信贷基本概念](bank/主题六：互联网信贷基本概念.md)
-- [主题七：单变量分析](bank/主题七：单变量分析.md)
-- [主题八：风控面试问题](bank/主题八：风控面试问题.md)
-- [主题九：决策树](bank/主题九：决策树.md)
-- [主题十：模型评估](bank/主题十：模型评估.md)
-
-----
-
-* [nlp](nlp/nlp.md)
-* [vue](vue/vue.md)
-
-----
-
-* [Neo4J](neo4j/01_Neo4J的安装与配置.md)
-* [Neo4J](neo4j/neo4j.md)
-
-----
-
-* [docsify](OpenSource/docsify.md)
-* [git](OpenSource/git.md)
-* [install](OpenSource/install.md)
-* [pypi](OpenSource/pypi.md)
-* [shell](OpenSource/Shell.md)
-
-----
-
-- Python基本操作
-    - [Python 基础](./Python/Python.md)
-    - [Python 3.8](./Python/python3_8.md)
-    - [itertools](./Python/itertools.md)
-    - [并行计算](./Python/multiprocessing.md)
-    - [内置模块](./Python/py_model.md)
-    - [第三方模块](./Python/packages.md)
-    - [PySpark](./Python/pyspark.md)
-    - [GraphX](./Python/GraphX.md)
-
-- 知识图谱
-    - [Neo4J](../../Risk-KIVI/doc/docs/neo4j/neo4j.md)
-
-- Scala
-  - [Scala](./Scala/Scala.md)
-
-- 时间序列分析
-    - [时间序列分析](./TimeSerise/time_serise.md)
-    
-- 开源社区
-    - [简单Git命令](../../Risk-KIVI/doc/docs/OpenSource/git.md)
-    - [PyPi](../../Risk-KIVI/doc/docs/OpenSource/pypi.md)
-    - [docsify](../../Risk-KIVI/doc/docs/OpenSource/docsify.md)
-
-- 数据库
-    - [SQL](../../Risk-KIVI/doc/docs/SQL/SQL.md)
-    - [MySQL](../../Risk-KIVI/doc/docs/SQL/MySQL.md)
-
-- 机器学习与深度学习
-    - [机器学习](../../doc/docs/package/MachineLearning.md)
-    - [Scikit-learn](../../doc/docs/package/Scikit_learn.md)
-    - [Keras](../../doc/docs/package/keras.md)
-    - [NLP](../../doc/docs/package/NLP.md)
-
-- IDE
-    - [编辑工具](./EditTools/EditTools.md)
-
-- 参考资料
-    - [书籍&文档](../../doc/docs/reference/book.md)
+* 银行与信贷业务
+  * [主题零：问题](bank/主题零：问答.md)
+  * [主题一：金融用户画像](bank/主题一：金融用户画像.md)
+  * [主题二：信贷评分卡建设](bank/主题二：信贷评分卡建设.md)
+  * [主题三：指标与特征工程](bank/主题三：指标与特征工程.md)
+  * [主题四：银行基本信贷概念](bank/主题四：银行基本信贷概念.md)
+  * [主题五：宏观经济](bank/主题五：宏观经济.md)
+  * [主题六：互联网信贷基本概念](bank/主题六：互联网信贷基本概念.md)
+  * [主题七：单变量分析](bank/主题七：单变量分析.md)
+  * [主题八：风控面试问题](bank/主题八：风控面试问题.md)
+  * [主题九：决策树](bank/主题九：决策树.md)
+  * [主题十：模型评估](bank/主题十：模型评估.md)
+* 理论研究
+  * [nlp](nlp/nlp.md)
+  * [vue](vue/vue.md)
+  * [时间序列分析](theory/time_serise.md)
+* 中间件
+  * [Neo4J](neo4j/01_Neo4J的安装与配置.md)
+  * [Neo4J](neo4j/neo4j.md)
+  * [docsify](OpenSource/docsify.md)
+  * [git](OpenSource/git.md)
+  * [install](OpenSource/install.md)
+  * [pypi](OpenSource/pypi.md)
+  * [shell](OpenSource/Shell.md)
+* Python基本操作
+  * [Python 基础](./Python/Python.md)
+  * [Python 3.8](./Python/python3_8.md)
+  * [itertools](./Python/itertools.md)
+  * [并行计算](./Python/multiprocessing.md)
+  * [内置模块](./Python/py_model.md)
+  * [第三方模块](./Python/packages.md)
+  * [PySpark](./Python/pyspark.md)
+  * [GraphX](./Python/GraphX.md)
+* Scala
+  * [Scala](./Scala/Scala.md)
+* 开源社区
+  * [简单Git命令](../../Risk*KIVI/doc/docs/OpenSource/git.md)
+  * [PyPi](../../Risk*KIVI/doc/docs/OpenSource/pypi.md)
+  * [docsify](../../Risk*KIVI/doc/docs/OpenSource/docsify.md)
+* 数据库
+  * [SQL](../../Risk*KIVI/doc/docs/SQL/SQL.md)
+  * [MySQL](../../Risk*KIVI/doc/docs/SQL/MySQL.md)
+* 机器学习与深度学习
+  * [机器学习](../../doc/docs/package/MachineLearning.md)
+  * [Scikit*learn](../../doc/docs/package/Scikit_learn.md)
+  * [Keras](../../doc/docs/package/keras.md)
+  * [NLP](../../doc/docs/package/NLP.md)
+* IDE
+  * [编辑工具](./EditTools/EditTools.md)
+* 参考资料
+  * [书籍&文档](../../doc/docs/reference/book.md)
