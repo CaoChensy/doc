@@ -1,3 +1,3 @@
-# Headline
+# 技术学习日记本
 
-> An awesome project.
+> 记录日常技术学习笔记，方便自己查阅。
