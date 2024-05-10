@@ -33,3 +33,42 @@
 
 ----
 
+- Python基本操作
+    - [Python 基础](./Python/Python.md)
+    - [Python 3.8](./Python/python3_8.md)
+    - [itertools](./Python/itertools.md)
+    - [并行计算](./Python/multiprocessing.md)
+    - [内置模块](./Python/py_model.md)
+    - [第三方模块](./Python/packages.md)
+    - [PySpark](./Python/pyspark.md)
+    - [GraphX](./Python/GraphX.md)
+
+- 知识图谱
+    - [Neo4J](../../Risk-KIVI/doc/docs/neo4j/neo4j.md)
+
+- Scala
+  - [Scala](./Scala/Scala.md)
+
+- 时间序列分析
+    - [时间序列分析](./TimeSerise/time_serise.md)
+    
+- 开源社区
+    - [简单Git命令](../../Risk-KIVI/doc/docs/OpenSource/git.md)
+    - [PyPi](../../Risk-KIVI/doc/docs/OpenSource/pypi.md)
+    - [docsify](../../Risk-KIVI/doc/docs/OpenSource/docsify.md)
+
+- 数据库
+    - [SQL](../../Risk-KIVI/doc/docs/SQL/SQL.md)
+    - [MySQL](../../Risk-KIVI/doc/docs/SQL/MySQL.md)
+
+- 机器学习与深度学习
+    - [机器学习](../../doc/docs/package/MachineLearning.md)
+    - [Scikit-learn](../../doc/docs/package/Scikit_learn.md)
+    - [Keras](../../doc/docs/package/keras.md)
+    - [NLP](../../doc/docs/package/NLP.md)
+
+- IDE
+    - [编辑工具](./EditTools/EditTools.md)
+
+- 参考资料
+    - [书籍&文档](../../doc/docs/reference/book.md)

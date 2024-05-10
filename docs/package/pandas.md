@@ -16,3 +16,21 @@ car_sales.loc[:,'dow'] = car_sales['date'].dt.dayofweek
 
 car_sales.head()
 ```
+
+
+> pandas options
+
+1. 精度
+```python
+pd.options.display.float_format = lambda x: '%.2f' % x
+pd.set_option('precision', 5)
+```
+
+> 分组聚合
+
+```python
+df.groupby('professorid').agg(
+    num_students = ('column_name' , 'function'),
+    studentids = ('studentid' ,  'unique'),)
+```
+

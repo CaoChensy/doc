@@ -1,12 +1,9 @@
-![logo](_media/icon.svg)
+![logo](./img/icon.png) 
 
-# docsify <small>3.5</small>
+# 知识随笔
 
-> A magical documentation site generator.
+> 温故知新
 
-- Simple and lightweight
-- No statically built html files
-- Multiple themes
+[GitHub](https://github.com/CaoChensy/MyLearning)
 
-[GitHub](https://github.com/docsifyjs/docsify/)
-[Get Started](#docsify)
+![color](#f0f0f0)
