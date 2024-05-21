@@ -16,7 +16,7 @@ from pyspark.ml.regression import LinearRegression
 data = datasets.load_boston().get('data')
 target = datasets.load_boston().get('target')
 feature_names = datasets.load_boston().get('feature_names')
-# 创建 Pyspark DataFrame
+# 创建 pyspark DataFrame
 df = pd.DataFrame(data, columns=feature_names)
 df['target'] = target
 df = spark.createDataFrame(df)

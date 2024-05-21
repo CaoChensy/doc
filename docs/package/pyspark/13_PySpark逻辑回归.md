@@ -24,7 +24,7 @@ from pyspark.ml.classification import LogisticRegression
 data = datasets.load_breast_cancer().get('data')
 target = datasets.load_breast_cancer().get('target')
 feature_names = datasets.load_breast_cancer().get('feature_names')
-# 创建 Pyspark DataFrame
+# 创建 pyspark DataFrame
 df = pd.DataFrame(data, columns=feature_names)
 df['target'] = target
 df.head()
